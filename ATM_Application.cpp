@@ -5,7 +5,7 @@ void ShowMenu(){
     std::cout << "1-Check balance"<<std::endl;
     std::cout << "2-Deposit money"<<std::endl;
     std::cout << "3-Withdraw balance"<<std::endl;
-    std::cout << "4-Exit"<<std::endl;
+    std::cout << "4-Exit"<<std::endl; // çıkış için kullan
 }
 
 int main(){
